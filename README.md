@@ -22,3 +22,11 @@ __*sample text*__
 ## Nested blockquote
 > reshma
 >> yasmeen
+## ORDERED LIST
+1. Ece
+2. EEE
+3. CSE
+    A. CSEA
+    B. CSEB
+4. CIVIL
+5. MECH
