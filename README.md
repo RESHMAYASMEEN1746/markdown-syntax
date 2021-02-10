@@ -1,2 +1,6 @@
-# markdown-syntax
-about markdown syntax
+# Home automation by alexa
+## components
+### circuit diagram
+#### analysis
+##### output observation
+###### conclusion
