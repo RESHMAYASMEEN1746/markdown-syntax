@@ -59,4 +59,6 @@ int main() {
 ## add gmail link
 [gmail](https://mail.google.com)
  
+ ## ADD COLLEGE WEBSITE
+ [kits](https://colleges.stupidsid.com/college-reviews/krishna-chaitanya-institute-of-management-5933)
  
