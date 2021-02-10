@@ -40,6 +40,7 @@ __*sample text*__
 ## CODE OF FUNCTION DEFINITION
 `
 def fun():
+
    print("welcome to github workshop by APSSDC")
  `
  ## function calling
