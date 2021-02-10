@@ -62,3 +62,5 @@ int main() {
  ## ADD COLLEGE WEBSITE
  [kits](https://colleges.stupidsid.com/college-reviews/krishna-chaitanya-institute-of-management-5933)
  
+## inserting videos
+[![jabardarsth](https://img.youtube.com/0xlRMFNDfb0/0.jpg)](https://www.youtube.com/watch?v=0xlRMFNDfb0)
