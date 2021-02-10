@@ -38,11 +38,10 @@ __*sample text*__
     + EEEA
     + EEEB
 ## CODE OF FUNCTION DEFINITION
-`
+```
 def fun():
-
-   print("welcome to github workshop by APSSDC")
- `
+    print("welcome to github workshop by APSSDC")
+ ```
  ## function calling
  `
  fun()
