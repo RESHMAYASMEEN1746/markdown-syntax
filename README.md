@@ -30,3 +30,10 @@ __*sample text*__
    2. CSEB
 4. CIVIL
 5. MECH
+## UNORDERED LIST
+- ECE
+    * ECEA
+    * ECEB
+ - EEE
+    + EEEA
+    + EEEB
