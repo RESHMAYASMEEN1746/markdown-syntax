@@ -8,6 +8,7 @@
 **Sample text**
 
 __sample text__
+
 _sample text_
 ## Bold and italic
 **_sample text_**
