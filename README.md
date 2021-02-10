@@ -26,7 +26,7 @@ __*sample text*__
 1. Ece
 2. EEE
 3. CSE
-    A. CSEA
-    B. CSEB
+   1. CSEA
+   2. CSEB
 4. CIVIL
 5. MECH
