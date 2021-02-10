@@ -9,9 +9,13 @@
 
 __sample text__
 
+## italic text 
 _sample text_
+
 ## Bold and italic
 **_sample text_**
 
 __*sample text*__
 
+## boldquote
+> reshmayasmeen
